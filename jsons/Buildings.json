@@ -1,0 +1,45 @@
+[
+    {
+		"name": "The Royal Palace of Romania",
+        "replaces": "Palace",
+        "uniqueTo": "Kingdom of Romania",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city","[+10]% [Culture] [in capital]"]
+	},{
+		"name": "Roman Museum",
+		"replaces": "Museum",
+		"uniqueTo": "Kingdom of Romania",
+		"culture": 8,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Destroyed when the city is captured"]
+	},{
+		"name": "Royal Bulgarian Military Academy",
+		"replaces": "Military Academy",
+		"uniqueTo": "Kingdom of Bulgaria",
+		"hurryCostModifier": 0,
+		"maintenance": 2,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},{
+		"name": "Millet Government Office",
+		"replaces": "Courthouse",
+		"uniqueTo": "Sublime Ottoman State",
+		"maintenance": 4,
+		"happiness": 2,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	}
+]

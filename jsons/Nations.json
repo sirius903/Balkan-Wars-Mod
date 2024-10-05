@@ -1,0 +1,197 @@
+[
+	{
+		"name": "Kingdom of Greece",
+		"leaderName": "George I",
+		"adjective": ["Greek"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+		// "personality": "George I",
+
+		"startIntroPart1": "O Greece, yearning for peace and prosperity, your king, George I, will now lead your nation. Combine the ancient heritage with modern wisdom to open a new era.",
+		"startIntroPart2": "Your nation stands ready to move beyond the glory of the past toward an even greater future.",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "I am George I, King of Greece. I will dedicate myself to my country and carve out its glorious future.",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [5, 94, 177],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Church of Greece",
+		"uniqueName": "The First Independent Country",
+		"uniques": [
+			"[Land] units gain the [Independent Army] promotion <hidden from users>",
+            "[Water] units gain the [Independent Army] promotion <hidden from users>",
+            "Comment [Non-Air Units receive a +15% Combat Bonus when defending]",
+			"[+10]% [Gold] [in all cities]",
+			"[+5]% [Science] [in all cities]",
+			"[+15]% Strength for cities"
+		],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
+			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
+			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
+			"Patras","Lamia","Nafplion","Apolyton"],
+        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+    },{
+		"name": "Kingdom of Romania",
+		"leaderName": "Carol I",
+		"adjective": ["Romanian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+		// "personality": "Carol I",
+
+		"startIntroPart1": "O Romania, where tradition and innovation intertwine, the time has come for your king, Carol I, to lead the nation. We shall not forget our roots as we stride toward the future.",
+		"startIntroPart2": "I will pave the way to restore the glory of this land and bring prosperity to all.",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "I am Carol I, King of Romania. I pledge to dedicate myself to the development and prosperity of my country.",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [252, 209, 22],
+		"innerColor": [206, 17, 38],
+		"favoredReligion": "Romanian Orthodox Church",
+		"uniqueName": "The Only Latin In The Balkans",
+		"uniques": [
+			"[+20]% [Culture] [in all cities]",
+			"Enables Defensive Pacts",
+			"[+5]% Production when constructing [Military] units [in all cities] <upon declaring a defensive pact>"
+		],
+		"cities": ["Bucharest", "Cluj-Napoca", "Timisoara", "Brasov", "Constanta", "Iasi", "Sibiu", "Craiova", "Bacau", "Arad"],
+        "spyNames": ["Popescu", "Ionescu", "Stan", "Dumitrescu", "Radu", "Marin", "Gheorghe", "Matei", "Nicolae", "Constantinescu"]
+    },{
+		"name": "Kingdom of Montenegro",
+		"leaderName": "Nikola I",
+		"adjective": ["Montenegrin"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+		// "personality": "Nikola I",
+
+		"startIntroPart1": "O Montenegro, rich in history and courage, the time has come for your king, Nicholas I, to lead the nation. Let us honor our traditions as we prepare to embrace a new era.",
+		"startIntroPart2": "We shall embark once more on the journey toward freedom and independence.",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "I am Nicholas I, King of Montenegro. I promise dedication to my country and a hopeful future for our people.",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [216, 5, 0],
+		"innerColor": [29, 94, 145],
+		"favoredReligion": "Montenegrin Orthodox Church",
+		"uniqueName": "Montenegro, Forever",
+		"uniques": [
+			"Gain a free [Walls] [in all cities] <in [Hill] tiles>",
+			"New [Military] units start with [5] Experience [in all cities]",
+			"[+2 Happiness] [in capital]"
+		],
+		"cities": ["Cetinje", "Podgorica", "Niksic", "Herceg Novi", "Bar", "Kotor", "Budva", "Tivat", "Bijelo Polje", "Pljevlja"],
+        "spyNames": ["Dukanovic", "Vukovic", "Perovic", "Radonjic", "Bulatovic", "Ivanovic", "Popovic", "Milosevic", "Durovic", "Markovic"]
+    },{
+		"name": "Kingdom of Bulgaria",
+		"leaderName": "Ferdinand I",
+		"adjective": ["Bulgarian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+		// "personality": "Ferdinand I",
+
+		"startIntroPart1": "O Bulgaria, where culture and tradition blend, the time has come for your king, Ferdinand I, to lead the nation. Proud of our ancient heritage, we shall stride toward a new future.",
+		"startIntroPart2": "Let us walk together on the path to prosperity and progress.",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "I am Ferdinand I, King of Bulgaria. I pledge my dedication to the prosperity of my country and the great future ahead.",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [0, 155, 117],
+		"innerColor": [208, 28, 31],
+		"favoredReligion": "Bulgarian Orthodox Church",
+		"uniqueName": "Prussia In The Balkans",
+		"uniques": [
+			"[+35]% Production when constructing [Melee] units [in all cities]",
+			"[+8]% Strength <for [Melee] units> <when attacking>"
+		],
+		"cities": ["Sofia", "Plovdiv", "Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Dobrich", "Shumen", "Blagoevgrad"],
+        "spyNames": ["Ivanov", "Petrov", "Georgiev", "Dimitrov", "Nikolov", "Vasilev", "Kolev", "Todorov", "Stoyanov", "Popov"]
+    },{
+		"name": "Kingdom of Serbia",
+		"leaderName": "Peter I",
+		"adjective": ["Serbian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+		// "personality": "Peter I",
+
+		"startIntroPart1": "O Serbia, land of glory and courage, the time has come for your king, Peter I, to lead the nation. We shall cherish our traditions and history as we stride toward a new era.",
+		"startIntroPart2": "Let us walk together on the path of freedom and unity.",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "I am Peter I, King of Serbia. I pledge my dedication to the prosperity of my country and the unity of my people.",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [16, 65, 114],
+		"innerColor": [201, 62, 62],
+		"favoredReligion": "Serbian Orthodox Church",
+		"uniqueName": "Indomitable Spirit",
+		"uniques": ["[+10]% Strength <when defending> <in [your] tiles>", "[+10]% to Flank Attack bonuses", "[+15]% [Production] [in all cities] <when at war>"],
+		"cities": ["Belgrade", "Nis", "Novi Sad", "Kragujevac", "Subotica", "Zrenjanin", "Pancevo", "Cacak", "Krusevac", "Smederevo"],
+        "spyNames": ["Jovanovic", "Petrovic", "Nikolic", "Markovic", "Dordevic", "Stojanovic", "Milosevic", "Ilic", "Popovic", "Mitrovic"]
+    },{
+		"name": "Sublime Ottoman State",
+		"leaderName": "Mehmed V",
+		"adjective": ["Ottoman"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		// "personality": "Mehmed V",
+
+        "startIntroPart1": "O Ottoman Empire, the moment has come to revive your glory, as your Sultan, Mehmet V, leads the nation. Embracing our traditions and culture, we shall usher in a new era.",
+        "startIntroPart2": "With strong unity, we will march toward the future.",
+
+        "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
+		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
+		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		"introduction": "I am Mehmet V, Sultan of the Ottoman Empire. I pledge my dedication to the prosperity of the empire and the happiness of my people.",
+		"neutralHello": "Greetings!",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Let us do business! Would you be interested?",
+
+        "outerColor": [227, 10, 23],
+        "innerColor": [255, 255, 255],
+
+		"favoredReligion": "Islam",
+		"uniqueName": "Sick Man Of Europe",
+		"uniques": [
+			"[-15]% [Production] from every [Terrain]",
+			"[-15]% [Gold] from every [Terrain]",
+			"[-20]% Production when constructing [Military] units [in all cities]",
+			"[+50]% Production when constructing [Janissary] units [in all cities] <hidden from users>"
+		],
+		"cities": ["Constantinople", "Edirne", "Bursa", "Izmir", "Ankara", "Damascus", "Aleppo", "Baghdad", "Cairo", "Sarajevo"],
+        "spyNames": ["Osmanoglu", "Celebi", "Pasa", "Topal", "Koprulu", "Mehmedovic", "Zaim", "Karamanli", "Bayezid", "Sinan"]
+    }
+]
